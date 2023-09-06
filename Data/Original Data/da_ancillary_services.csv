@@ -1,0 +1,126 @@
+datetime_beginning_utc,datetime_beginning_ept,ancillary_service,unit,value,row_is_current,version_nbr
+6/7/2023 4:00:00 AM,6/7/2023 12:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 4:00:00 AM,6/7/2023 12:00:00 AM,PJM RTO Synchronized Reserve,price,0.010000,True,1
+6/7/2023 4:00:00 AM,6/7/2023 12:00:00 AM,PJM RTO Primary Reserve,price,0.010000,True,1
+6/7/2023 4:00:00 AM,6/7/2023 12:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.010000,True,1
+6/7/2023 4:00:00 AM,6/7/2023 12:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.010000,True,1
+6/7/2023 5:00:00 AM,6/7/2023 1:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 5:00:00 AM,6/7/2023 1:00:00 AM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/7/2023 5:00:00 AM,6/7/2023 1:00:00 AM,PJM RTO Primary Reserve,price,0.060000,True,1
+6/7/2023 5:00:00 AM,6/7/2023 1:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/7/2023 5:00:00 AM,6/7/2023 1:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.060000,True,1
+6/7/2023 6:00:00 AM,6/7/2023 2:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 6:00:00 AM,6/7/2023 2:00:00 AM,PJM RTO Synchronized Reserve,price,0.020000,True,1
+6/7/2023 6:00:00 AM,6/7/2023 2:00:00 AM,PJM RTO Primary Reserve,price,0.020000,True,1
+6/7/2023 6:00:00 AM,6/7/2023 2:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.020000,True,1
+6/7/2023 6:00:00 AM,6/7/2023 2:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.020000,True,1
+6/7/2023 7:00:00 AM,6/7/2023 3:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 7:00:00 AM,6/7/2023 3:00:00 AM,PJM RTO Synchronized Reserve,price,0.010000,True,1
+6/7/2023 7:00:00 AM,6/7/2023 3:00:00 AM,PJM RTO Primary Reserve,price,0.010000,True,1
+6/7/2023 7:00:00 AM,6/7/2023 3:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.010000,True,1
+6/7/2023 7:00:00 AM,6/7/2023 3:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.010000,True,1
+6/7/2023 8:00:00 AM,6/7/2023 4:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 8:00:00 AM,6/7/2023 4:00:00 AM,PJM RTO Synchronized Reserve,price,0.010000,True,1
+6/7/2023 8:00:00 AM,6/7/2023 4:00:00 AM,PJM RTO Primary Reserve,price,0.010000,True,1
+6/7/2023 8:00:00 AM,6/7/2023 4:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.010000,True,1
+6/7/2023 8:00:00 AM,6/7/2023 4:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.010000,True,1
+6/7/2023 9:00:00 AM,6/7/2023 5:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 9:00:00 AM,6/7/2023 5:00:00 AM,PJM RTO Synchronized Reserve,price,0.020000,True,1
+6/7/2023 9:00:00 AM,6/7/2023 5:00:00 AM,PJM RTO Primary Reserve,price,0.020000,True,1
+6/7/2023 9:00:00 AM,6/7/2023 5:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.020000,True,1
+6/7/2023 9:00:00 AM,6/7/2023 5:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.020000,True,1
+6/7/2023 10:00:00 AM,6/7/2023 6:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 10:00:00 AM,6/7/2023 6:00:00 AM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/7/2023 10:00:00 AM,6/7/2023 6:00:00 AM,PJM RTO Primary Reserve,price,0.060000,True,1
+6/7/2023 10:00:00 AM,6/7/2023 6:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/7/2023 10:00:00 AM,6/7/2023 6:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.060000,True,1
+6/7/2023 11:00:00 AM,6/7/2023 7:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 11:00:00 AM,6/7/2023 7:00:00 AM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/7/2023 11:00:00 AM,6/7/2023 7:00:00 AM,PJM RTO Primary Reserve,price,0.060000,True,1
+6/7/2023 11:00:00 AM,6/7/2023 7:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/7/2023 11:00:00 AM,6/7/2023 7:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.060000,True,1
+6/7/2023 12:00:00 PM,6/7/2023 8:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 12:00:00 PM,6/7/2023 8:00:00 AM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/7/2023 12:00:00 PM,6/7/2023 8:00:00 AM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/7/2023 12:00:00 PM,6/7/2023 8:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/7/2023 12:00:00 PM,6/7/2023 8:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/7/2023 1:00:00 PM,6/7/2023 9:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 1:00:00 PM,6/7/2023 9:00:00 AM,PJM RTO Synchronized Reserve,price,0.850000,True,1
+6/7/2023 1:00:00 PM,6/7/2023 9:00:00 AM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/7/2023 1:00:00 PM,6/7/2023 9:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.850000,True,1
+6/7/2023 1:00:00 PM,6/7/2023 9:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/7/2023 2:00:00 PM,6/7/2023 10:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 2:00:00 PM,6/7/2023 10:00:00 AM,PJM RTO Synchronized Reserve,price,0.670000,True,1
+6/7/2023 2:00:00 PM,6/7/2023 10:00:00 AM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/7/2023 2:00:00 PM,6/7/2023 10:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.670000,True,1
+6/7/2023 2:00:00 PM,6/7/2023 10:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/7/2023 3:00:00 PM,6/7/2023 11:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 3:00:00 PM,6/7/2023 11:00:00 AM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/7/2023 3:00:00 PM,6/7/2023 11:00:00 AM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/7/2023 3:00:00 PM,6/7/2023 11:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/7/2023 3:00:00 PM,6/7/2023 11:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/7/2023 4:00:00 PM,6/7/2023 12:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 4:00:00 PM,6/7/2023 12:00:00 PM,PJM RTO Synchronized Reserve,price,2.390000,True,1
+6/7/2023 4:00:00 PM,6/7/2023 12:00:00 PM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/7/2023 4:00:00 PM,6/7/2023 12:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,2.390000,True,1
+6/7/2023 4:00:00 PM,6/7/2023 12:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/7/2023 5:00:00 PM,6/7/2023 1:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 5:00:00 PM,6/7/2023 1:00:00 PM,PJM RTO Synchronized Reserve,price,2.480000,True,1
+6/7/2023 5:00:00 PM,6/7/2023 1:00:00 PM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/7/2023 5:00:00 PM,6/7/2023 1:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,2.480000,True,1
+6/7/2023 5:00:00 PM,6/7/2023 1:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/7/2023 6:00:00 PM,6/7/2023 2:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 6:00:00 PM,6/7/2023 2:00:00 PM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/7/2023 6:00:00 PM,6/7/2023 2:00:00 PM,PJM RTO Primary Reserve,price,0.060000,True,1
+6/7/2023 6:00:00 PM,6/7/2023 2:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/7/2023 6:00:00 PM,6/7/2023 2:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,0.060000,True,1
+6/7/2023 7:00:00 PM,6/7/2023 3:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 7:00:00 PM,6/7/2023 3:00:00 PM,PJM RTO Synchronized Reserve,price,1.370000,True,1
+6/7/2023 7:00:00 PM,6/7/2023 3:00:00 PM,PJM RTO Primary Reserve,price,1.370000,True,1
+6/7/2023 7:00:00 PM,6/7/2023 3:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,1.370000,True,1
+6/7/2023 7:00:00 PM,6/7/2023 3:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,1.370000,True,1
+6/7/2023 8:00:00 PM,6/7/2023 4:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 8:00:00 PM,6/7/2023 4:00:00 PM,PJM RTO Synchronized Reserve,price,9.170000,True,1
+6/7/2023 8:00:00 PM,6/7/2023 4:00:00 PM,PJM RTO Primary Reserve,price,9.170000,True,1
+6/7/2023 8:00:00 PM,6/7/2023 4:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,9.170000,True,1
+6/7/2023 8:00:00 PM,6/7/2023 4:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,9.170000,True,1
+6/7/2023 9:00:00 PM,6/7/2023 5:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 9:00:00 PM,6/7/2023 5:00:00 PM,PJM RTO Synchronized Reserve,price,16.310000,True,1
+6/7/2023 9:00:00 PM,6/7/2023 5:00:00 PM,PJM RTO Primary Reserve,price,16.310000,True,1
+6/7/2023 9:00:00 PM,6/7/2023 5:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,16.310000,True,1
+6/7/2023 9:00:00 PM,6/7/2023 5:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,16.310000,True,1
+6/7/2023 10:00:00 PM,6/7/2023 6:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 10:00:00 PM,6/7/2023 6:00:00 PM,PJM RTO Synchronized Reserve,price,13.710000,True,1
+6/7/2023 10:00:00 PM,6/7/2023 6:00:00 PM,PJM RTO Primary Reserve,price,13.710000,True,1
+6/7/2023 10:00:00 PM,6/7/2023 6:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,13.710000,True,1
+6/7/2023 10:00:00 PM,6/7/2023 6:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,13.710000,True,1
+6/7/2023 11:00:00 PM,6/7/2023 7:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/7/2023 11:00:00 PM,6/7/2023 7:00:00 PM,PJM RTO Synchronized Reserve,price,5.040000,True,1
+6/7/2023 11:00:00 PM,6/7/2023 7:00:00 PM,PJM RTO Primary Reserve,price,5.040000,True,1
+6/7/2023 11:00:00 PM,6/7/2023 7:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,5.040000,True,1
+6/7/2023 11:00:00 PM,6/7/2023 7:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,5.040000,True,1
+6/8/2023 12:00:00 AM,6/7/2023 8:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/8/2023 12:00:00 AM,6/7/2023 8:00:00 PM,PJM RTO Synchronized Reserve,price,2.510000,True,1
+6/8/2023 12:00:00 AM,6/7/2023 8:00:00 PM,PJM RTO Primary Reserve,price,2.510000,True,1
+6/8/2023 12:00:00 AM,6/7/2023 8:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,2.510000,True,1
+6/8/2023 12:00:00 AM,6/7/2023 8:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,2.510000,True,1
+6/8/2023 1:00:00 AM,6/7/2023 9:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/8/2023 1:00:00 AM,6/7/2023 9:00:00 PM,PJM RTO Synchronized Reserve,price,4.010000,True,1
+6/8/2023 1:00:00 AM,6/7/2023 9:00:00 PM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/8/2023 1:00:00 AM,6/7/2023 9:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,4.010000,True,1
+6/8/2023 1:00:00 AM,6/7/2023 9:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/8/2023 2:00:00 AM,6/7/2023 10:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/8/2023 2:00:00 AM,6/7/2023 10:00:00 PM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/8/2023 2:00:00 AM,6/7/2023 10:00:00 PM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/8/2023 2:00:00 AM,6/7/2023 10:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/8/2023 2:00:00 AM,6/7/2023 10:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1
+6/8/2023 3:00:00 AM,6/7/2023 11:00:00 PM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/8/2023 3:00:00 AM,6/7/2023 11:00:00 PM,PJM RTO Synchronized Reserve,price,0.060000,True,1
+6/8/2023 3:00:00 AM,6/7/2023 11:00:00 PM,PJM RTO Primary Reserve,price,0.060000,True,1
+6/8/2023 3:00:00 AM,6/7/2023 11:00:00 PM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.060000,True,1
+6/8/2023 3:00:00 AM,6/7/2023 11:00:00 PM,Mid-Atlantic/Dominion Primary Reserve,price,0.060000,True,1
+6/8/2023 4:00:00 AM,6/8/2023 12:00:00 AM,PJM RTO Thirty Minutes Reserve,price,0.000000,True,1
+6/8/2023 4:00:00 AM,6/8/2023 12:00:00 AM,PJM RTO Synchronized Reserve,price,0.000000,True,1
+6/8/2023 4:00:00 AM,6/8/2023 12:00:00 AM,PJM RTO Primary Reserve,price,0.000000,True,1
+6/8/2023 4:00:00 AM,6/8/2023 12:00:00 AM,Mid-Atlantic/Dominion Synchronized Reserve,price,0.000000,True,1
+6/8/2023 4:00:00 AM,6/8/2023 12:00:00 AM,Mid-Atlantic/Dominion Primary Reserve,price,0.000000,True,1

@@ -1,0 +1,9 @@
+Conventional research --> This research
+
+1. DAM price --> Day ahead  LBMP
+
+2. Reserve price --> Day ahead regulation price
+
+3. Up regulation price --> Real time LBMP
+
+4. Down regulation price --> Real time regulation price
